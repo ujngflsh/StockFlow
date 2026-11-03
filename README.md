@@ -6,6 +6,22 @@ StockFlow is a responsive inventory-management portfolio demo built with React, 
 
 ## Features
 
+
+## Screenshots
+
+### Dashboard
+![StockFlow Dashboard](screenshots/Dashboard.jpeg)
+
+### Products
+![StockFlow Products](screenshots/Products.jpeg)
+
+### Inventory
+![StockFlow Inventory](<screenshots/Inventory  Stock.jpeg>)
+
+### Reports
+![StockFlow Reports](screenshots/Reports.jpeg)
+
+
 - Dashboard metrics calculated from current products and movements.
 - Product create, edit, delete, search, and category/stock filters.
 - Category creation and dependency-safe deletion.
